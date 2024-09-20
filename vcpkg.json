@@ -14,16 +14,16 @@
   "vcpkg-configuration": {
     "default-registry": {
       "kind": "git",
-      "baseline": "5a38b5ec0eee3d1a1a6faab5e944617fee2697cf",
+      "baseline": "91f002cae2281636da5155efc5a11d67efa72415",
       "repository": "https://github.com/microsoft/vcpkg.git"
     },
     "registries": [
       {
         "kind": "git",
-        "baseline": "78f50d1f7f6f21a9fb28b9a7a3cab021e600830c",
+        "baseline": "83a1b8ad4f7be3bf2e16d4397f58e6119e001ef6",
         "repository": "https://github.com/NYU-Processor-Design/nyu-registry.git",
         "packages": [
-          "nyu-cmake"
+          "nyu-*"
         ]
       }
     ]
